@@ -1,0 +1,4 @@
+Registre de jugadors de MasterMind
+idJugador2 2 2
+idJugador1 123 1
+idJugador3 123 1
